@@ -5,7 +5,7 @@ import {
     Show,
     SimpleShowLayout,
     TextField,
-} from 'react-admin'; // eslint-disable-line import/no-unresolved
+} from 'react-admin3'; // eslint-disable-line import/no-unresolved
 
 const CommentShow = props => (
     <Show {...props}>

@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { SimpleShowLayout, TextField } from 'react-admin';
+import { SimpleShowLayout, TextField } from 'react-admin3';
 
 const PostPreviewView = ({ isLoading, ...props }) => (
     <SimpleShowLayout {...props}>

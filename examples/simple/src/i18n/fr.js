@@ -1,6 +1,6 @@
 import frenchMessages from 'ra-language-french';
 import treeFrenchMessages from 'ra-tree-language-french';
-import { mergeTranslations } from 'react-admin';
+import { mergeTranslations } from 'react-admin3';
 
 export default {
     simple: {

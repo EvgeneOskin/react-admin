@@ -19,7 +19,7 @@ import {
     SimpleForm,
     TextInput,
     Filter,
-} from 'react-admin';
+} from 'react-admin3';
 
 const PostFilter = props => (
     <Filter {...props}>

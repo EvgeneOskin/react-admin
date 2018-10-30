@@ -9,7 +9,7 @@ import {
     CREATE,
     UPDATE,
     DELETE,
-} from 'react-admin';
+} from 'react-admin3';
 
 describe('introspection', () => {
     describe('filterTypesByIncludeExclude', () => {

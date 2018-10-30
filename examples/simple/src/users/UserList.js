@@ -14,7 +14,7 @@ import {
     SimpleList,
     TextField,
     TextInput,
-} from 'react-admin';
+} from 'react-admin3';
 export const UserIcon = PeopleIcon;
 
 import Aside from './Aside';

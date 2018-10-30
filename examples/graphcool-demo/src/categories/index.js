@@ -10,7 +10,7 @@ import {
     SimpleForm,
     TextField,
     TextInput,
-} from 'react-admin';
+} from 'react-admin3';
 import Icon from '@material-ui/icons/Bookmark';
 
 import ThumbnailField from '../products/ThumbnailField';

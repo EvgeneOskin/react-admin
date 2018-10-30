@@ -18,7 +18,7 @@ import {
     TextField,
     TextInput,
     required,
-} from 'react-admin';
+} from 'react-admin3';
 import Chip from '@material-ui/core/Chip';
 import withStyles from '@material-ui/core/styles/withStyles';
 import Icon from '@material-ui/icons/Collections';

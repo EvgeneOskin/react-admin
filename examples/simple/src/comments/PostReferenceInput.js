@@ -16,7 +16,7 @@ import {
     ReferenceInput,
     SelectInput,
     translate,
-} from 'react-admin'; // eslint-disable-line import/no-unresolved
+} from 'react-admin3'; // eslint-disable-line import/no-unresolved
 
 import PostQuickCreate from './PostQuickCreate';
 import PostPreview from './PostPreview';

@@ -1,6 +1,6 @@
 /* eslint react/jsx-key: off */
 import React from 'react';
-import { translate } from 'react-admin';
+import { translate } from 'react-admin3';
 
 const UserTitle = translate(({ record, translate }) => (
     <span>

@@ -1,5 +1,5 @@
 import React, { Component, Fragment } from 'react';
-import { GET_LIST, GET_MANY, Responsive, Title } from 'react-admin';
+import { GET_LIST, GET_MANY, Responsive, Title } from 'react-admin3';
 
 import Welcome from './Welcome';
 import MonthlyRevenue from './MonthlyRevenue';

@@ -1,5 +1,5 @@
 import React from 'react';
-import { translate } from 'react-admin';
+import { translate } from 'react-admin3';
 
 export default translate(({ record, translate }) => (
     <span>

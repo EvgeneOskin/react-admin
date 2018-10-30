@@ -1,4 +1,4 @@
-import { UPDATE } from 'react-admin';
+import { UPDATE } from 'react-admin3';
 
 export const REVIEW_APPROVE = 'REVIEW_APPROVE';
 export const REVIEW_APPROVE_LOADING = 'REVIEW_APPROVE_LOADING';

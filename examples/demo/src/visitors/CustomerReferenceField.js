@@ -1,5 +1,5 @@
 import React from 'react';
-import { ReferenceField } from 'react-admin';
+import { ReferenceField } from 'react-admin3';
 
 import FullNameField from './FullNameField';
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import Chip from '@material-ui/core/Chip';
-import { translate } from 'react-admin';
+import { translate } from 'react-admin3';
 import segments from '../segments/data';
 
 const styles = {

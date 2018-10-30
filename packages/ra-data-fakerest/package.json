@@ -44,6 +44,6 @@
         "rimraf": "^2.6.2"
     },
     "peerDependencies": {
-        "react-admin": "^2.0.0"
+        "react-admin3": "^2.0.0"
     }
 }

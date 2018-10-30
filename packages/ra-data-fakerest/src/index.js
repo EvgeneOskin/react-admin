@@ -9,7 +9,7 @@ import {
     UPDATE_MANY,
     DELETE,
     DELETE_MANY,
-} from 'react-admin';
+} from 'react-admin3';
 
 /* eslint-disable no-console */
 function log(type, resource, params, response) {

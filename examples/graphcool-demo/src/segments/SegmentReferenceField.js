@@ -1,5 +1,5 @@
 import React from 'react';
-import { translate, ReferenceArrayField, SingleFieldList } from 'react-admin';
+import { translate, ReferenceArrayField, SingleFieldList } from 'react-admin3';
 
 import Chip from '@material-ui/core/Chip';
 

@@ -13,7 +13,7 @@ import TextField from '@material-ui/core/TextField';
 import { withStyles } from '@material-ui/core/styles';
 import LockIcon from '@material-ui/icons/Lock';
 
-import { Notification, translate, userLogin } from 'react-admin';
+import { Notification, translate, userLogin } from 'react-admin3';
 
 const styles = theme => ({
     main: {

@@ -11,7 +11,7 @@ import {
     NumberField,
     TextField,
     BooleanField,
-} from 'react-admin';
+} from 'react-admin3';
 
 import CustomerReferenceField from '../visitors/CustomerReferenceField';
 

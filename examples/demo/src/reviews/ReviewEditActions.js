@@ -1,5 +1,5 @@
 import React from 'react';
-import { CardActions } from 'react-admin';
+import { CardActions } from 'react-admin3';
 
 import AcceptButton from './AcceptButton';
 import RejectButton from './RejectButton';

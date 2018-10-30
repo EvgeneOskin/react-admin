@@ -9,7 +9,7 @@ import {
     SelectInput,
     SimpleForm,
     TitleForRecord,
-} from 'react-admin';
+} from 'react-admin3';
 import Card from '@material-ui/core/Card';
 import withStyles from '@material-ui/core/styles/withStyles';
 

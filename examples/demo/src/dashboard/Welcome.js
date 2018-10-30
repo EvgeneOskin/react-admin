@@ -9,7 +9,7 @@ import HomeIcon from '@material-ui/icons/Home';
 import CodeIcon from '@material-ui/icons/Code';
 import { withStyles } from '@material-ui/core/styles';
 
-import { translate } from 'react-admin';
+import { translate } from 'react-admin3';
 
 const styles = {
     media: {

@@ -3,7 +3,7 @@ import compose from 'recompose/compose';
 import Button from '@material-ui/core/Button';
 import { withStyles } from '@material-ui/core/styles';
 import { Link } from 'react-router-dom';
-import { translate } from 'react-admin';
+import { translate } from 'react-admin3';
 import { stringify } from 'query-string';
 
 import { ProductIcon } from '../products';

@@ -1,6 +1,6 @@
 import englishMessages from 'ra-language-english';
 import treeEnglishMessages from 'ra-tree-language-english';
-import { mergeTranslations } from 'react-admin';
+import { mergeTranslations } from 'react-admin3';
 
 export const messages = {
     simple: {

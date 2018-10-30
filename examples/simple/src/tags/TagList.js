@@ -7,7 +7,7 @@ import {
     ShowButton,
     TextField,
     TextInput,
-} from 'react-admin';
+} from 'react-admin3';
 import {
     DragPreview,
     IgnoreFormProps,

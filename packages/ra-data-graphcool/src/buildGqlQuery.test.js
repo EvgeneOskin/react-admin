@@ -7,7 +7,7 @@ import {
     UPDATE,
     CREATE,
     DELETE,
-} from 'react-admin';
+} from 'react-admin3';
 import buildGqlQuery, {
     buildApolloArgs,
     buildArgs,

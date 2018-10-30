@@ -9,7 +9,7 @@ import {
     TabbedForm,
     TextInput,
     required,
-} from 'react-admin';
+} from 'react-admin3';
 
 import UserTitle from './UserTitle';
 import Aside from './Aside';

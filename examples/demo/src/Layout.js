@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { Layout, Sidebar } from 'react-admin';
+import { Layout, Sidebar } from 'react-admin3';
 import AppBar from './AppBar';
 
 const CustomSidebar = props => <Sidebar size={200} {...props} />;

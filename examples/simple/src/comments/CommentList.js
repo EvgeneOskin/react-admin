@@ -28,7 +28,7 @@ import {
     TextField,
     downloadCSV,
     translate,
-} from 'react-admin'; // eslint-disable-line import/no-unresolved
+} from 'react-admin3'; // eslint-disable-line import/no-unresolved
 
 const CommentFilter = props => (
     <Filter {...props}>

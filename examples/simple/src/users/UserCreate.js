@@ -9,7 +9,7 @@ import {
     TextInput,
     Toolbar,
     required,
-} from 'react-admin';
+} from 'react-admin3';
 
 import Aside from './Aside';
 

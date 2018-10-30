@@ -1,5 +1,5 @@
 import React from 'react';
-import { Datagrid, List, FunctionField, translate } from 'react-admin';
+import { Datagrid, List, FunctionField, translate } from 'react-admin3';
 import Icon from '@material-ui/icons/Bookmark';
 
 import LinkToRelatedCustomers from './LinkToRelatedCustomers';

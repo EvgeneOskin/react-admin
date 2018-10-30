@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import Button from '@material-ui/core/Button';
-import { translate, changeLocale, Title } from 'react-admin';
+import { translate, changeLocale, Title } from 'react-admin3';
 
 import { changeTheme } from './actions';
 

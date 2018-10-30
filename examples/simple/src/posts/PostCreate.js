@@ -19,7 +19,7 @@ import {
     TextInput,
     Toolbar,
     crudCreate,
-} from 'react-admin'; // eslint-disable-line import/no-unresolved
+} from 'react-admin3'; // eslint-disable-line import/no-unresolved
 
 const saveWithNote = (values, basePath, redirectTo) =>
     crudCreate('posts', { ...values, average_note: 10 }, basePath, redirectTo);

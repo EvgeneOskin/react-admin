@@ -4,7 +4,7 @@ import {
     AUTH_LOGOUT,
     AUTH_ERROR,
     AUTH_CHECK,
-} from 'react-admin'; // eslint-disable-line import/no-unresolved
+} from 'react-admin3'; // eslint-disable-line import/no-unresolved
 
 // Authenticatd by default
 export default (type, params) => {

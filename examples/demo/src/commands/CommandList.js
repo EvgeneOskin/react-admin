@@ -15,7 +15,7 @@ import {
     SearchInput,
     TextField,
     TextInput,
-} from 'react-admin';
+} from 'react-admin3';
 import withStyles from '@material-ui/core/styles/withStyles';
 import Icon from '@material-ui/icons/AttachMoney';
 import Divider from '@material-ui/core/Divider';

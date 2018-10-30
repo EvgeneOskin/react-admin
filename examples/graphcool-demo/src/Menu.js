@@ -8,7 +8,7 @@ import {
     DashboardMenuItem,
     MenuItemLink,
     Responsive,
-} from 'react-admin';
+} from 'react-admin3';
 import { withRouter } from 'react-router-dom';
 
 import { VisitorIcon } from './visitors';

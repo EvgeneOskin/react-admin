@@ -43,12 +43,12 @@ module.exports = {
                 'ra-ui-materialui',
                 'src'
             ),
-            'react-admin': path.join(
+            'react-admin3': path.join(
                 __dirname,
                 '..',
                 '..',
                 'packages',
-                'react-admin',
+                'react-admin3',
                 'src'
             ),
             'ra-data-fakerest': path.join(

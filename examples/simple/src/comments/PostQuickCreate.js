@@ -10,7 +10,7 @@ import {
     TextInput,
     Toolbar,
     required,
-} from 'react-admin'; // eslint-disable-line import/no-unresolved
+} from 'react-admin3'; // eslint-disable-line import/no-unresolved
 
 import CancelButton from './PostQuickCreateCancelButton';
 

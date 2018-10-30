@@ -1,5 +1,5 @@
 import React from 'react';
-import { AppBar, UserMenu, MenuItemLink, translate } from 'react-admin';
+import { AppBar, UserMenu, MenuItemLink, translate } from 'react-admin3';
 import SettingsIcon from '@material-ui/icons/Settings';
 
 const CustomUserMenu = translate(({ translate, ...props }) => (

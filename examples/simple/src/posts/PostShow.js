@@ -19,7 +19,7 @@ import {
     TabbedShowLayout,
     TextField,
     UrlField,
-} from 'react-admin'; // eslint-disable-line import/no-unresolved
+} from 'react-admin3'; // eslint-disable-line import/no-unresolved
 import { Link } from 'react-router-dom';
 import Button from '@material-ui/core/Button';
 import PostTitle from './PostTitle';

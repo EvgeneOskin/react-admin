@@ -19,7 +19,7 @@ import {
     TabbedForm,
     TextField,
     TextInput,
-} from 'react-admin';
+} from 'react-admin3';
 import { withStyles } from '@material-ui/core/styles';
 import Icon from '@material-ui/icons/Person';
 
