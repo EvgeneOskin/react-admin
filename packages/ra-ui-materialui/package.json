@@ -1,6 +1,6 @@
 {
     "name": "ra-ui-materialui3",
-    "version": "2.4.1",
+    "version": "3.0.0",
     "description": "UI Components for react-admin with MaterialUI",
     "files": [
         "*.md",
