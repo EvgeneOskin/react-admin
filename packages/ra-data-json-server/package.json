@@ -1,35 +1,35 @@
 {
-    "name": "ra-data-json-server3",
-    "version": "3.0.0",
-    "description": "JSON Server data provider for react-admin",
-    "main": "lib/index.js",
-    "module": "esm/index.js",
-    "sideEffects": false,
-    "files": [
-        "*.md",
-        "lib",
-        "esm",
-        "src"
-    ],
-    "authors": [
-        "François Zaninotto"
-    ],
-    "repository": "marmelab/react-admin",
-    "homepage": "https://github.com/marmelab/react-admin#readme",
-    "bugs": "https://github.com/marmelab/react-admin/issues",
-    "license": "MIT",
-    "scripts": {
-        "build": "yarn run build-cjs && yarn run build-esm",
-        "build-cjs": "rimraf ./lib && tsc",
-        "build-esm": "rimraf ./esm && tsc --outDir esm --module es2015",
-        "watch": "rimraf ./lib && tsc --watch"
-    },
-    "dependencies": {
-        "query-string": "~5.1.1",
-        "react-admin3": "^3.0.0"
-    },
-    "devDependencies": {
-        "cross-env": "^5.2.0",
-        "rimraf": "^2.6.2"
-    }
+  "name": "eoskin-ra-data-json-server3",
+  "version": "3.0.0",
+  "description": "JSON Server data provider for react-admin",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "sideEffects": false,
+  "files": [
+    "*.md",
+    "lib",
+    "esm",
+    "src"
+  ],
+  "authors": [
+    "François Zaninotto"
+  ],
+  "repository": "marmelab/react-admin",
+  "homepage": "https://github.com/marmelab/react-admin#readme",
+  "bugs": "https://github.com/marmelab/react-admin/issues",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn run build-cjs && yarn run build-esm",
+    "build-cjs": "rimraf ./lib && tsc",
+    "build-esm": "rimraf ./esm && tsc --outDir esm --module es2015",
+    "watch": "rimraf ./lib && tsc --watch"
+  },
+  "dependencies": {
+    "query-string": "~5.1.1",
+    "react-admin3": "^3.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "rimraf": "^2.6.2"
+  }
 }
